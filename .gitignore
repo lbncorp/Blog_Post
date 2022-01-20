@@ -1,2 +1,5 @@
 test.file
 venv/
+test.py
+*.exe
+blog/__pycache__/
