@@ -3,4 +3,7 @@ venv/
 test.py
 *.exe
 blog/__pycache__/
-db.sqlite3
+
+*.sqlite3
+*.pyc
+
